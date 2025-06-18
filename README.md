@@ -14,6 +14,17 @@ README.md
 CONTRIBUTING.md
 ```
 
+### ✅ Decision Boundary Visualizations
+
+**Training Set:**
+
+![Image](https://github.com/user-attachments/assets/3ddd9ae0-ab6a-42cf-8347-32b24861b20d)
+
+**Test Set:**
+
+![Image](https://github.com/user-attachments/assets/fd033191-a3e7-425a-90e5-342cee33eb3b)
+
+
 ## 🛠️ Requirements
 Install the following dependencies using pip:
 
